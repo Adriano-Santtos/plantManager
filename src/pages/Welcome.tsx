@@ -41,7 +41,6 @@ export function Welcome(){
     )
 }
 
-
 const styles = StyleSheet.create({
     container:{
         flex:1,
